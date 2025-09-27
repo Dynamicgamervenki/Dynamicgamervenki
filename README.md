@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **18534venkanna@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGseCC3gxQ/_yBKKqcScUKbaHHaOxKEqw/view?utm_content=DAGseCC3gxQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4411133de0](https://www.canva.com/design/DAGseCC3gxQ/_yBKKqcScUKbaHHaOxKEqw/view?utm_content=DAGseCC3gxQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4411133de0)
+- 📄 Know about my experiences https://www.canva.com/design/DAG0KDPpM5Y/GO3Z_PTgMYUlSuvtwCoHag/view?utm_content=DAG0KDPpM5Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9b9d9b46e0
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
