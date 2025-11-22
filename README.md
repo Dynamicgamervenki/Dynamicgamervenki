@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Venkanna Babu</h1>
-<h3 align="center">A passionate game developer and computer science student. 🎮 I work mostly with Unrel Engine 5 and Unity, building gameplay systems and shaders .</h3>
+<h1 align="center">Hi, Venki at the controls 🕹️</h1>
+<h3 align="center"> Game Developer specializing in Unity with 1 year of hands-on experience. 📱 Published an Android title built in Unreal Engine and released on the Play Store. 💻 Comfortable working with C# in Unity, and C++/Blueprints in Unreal for gameplay, systems, and prototypes. 🚀 Always learning and improving. .</h3>
 
-- 🔭 I’m currently working on [Final Turn](https://github.com/Dynamicgamervenki/FinalTurn)
+- 🎮 Just launched my new game on the Play Store! 🎉✨ https://play.google.com/store/apps/details?id=com.dynamicV.FinalTurn&hl=en_IN
 
 - 📫 How to reach me **18534venkanna@gmail.com**
 
-- 📄 Know about my experiences https://www.canva.com/design/DAG0KDPpM5Y/GO3Z_PTgMYUlSuvtwCoHag/view?utm_content=DAG0KDPpM5Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9b9d9b46e0
+- 📄 Know about my experiences https://drive.google.com/file/d/1frx7-BZjff3ABw4udaDI4nntZ3yk_OXd/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
