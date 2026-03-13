@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Venkanna Babu</h1>
-<h3 align="center">Game & Tools Programmer | Animation Pipelines | CS Grad '25</h3>
+<h3 align="center">Game Programmer | Animation Pipelines | CS Grad '25</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkanna-babu-b69a8b227/" target="_blank">
@@ -69,6 +69,29 @@ I am a 2025 Computer Science graduate with specialized experience in game develo
   </a>
 </p>
 
+<details>
+  <summary><b>🔥 Advanced Expertise: Frameworks & Systems (Click to expand)</b></summary>
+  <br>
+  <p align="left">
+    <a href="https://docs.unrealengine.com/5.0/en-US/gameplay-ability-system-for-unreal-engine/" target="_blank">
+      <img src="https://img.shields.io/badge/Gameplay_Ability_System_(GAS)-4B0082?style=for-the-badge&logo=unrealengine&logoColor=white" alt="GAS" />
+    </a>
+    <a href="https://docs.unrealengine.com/5.0/en-US/cinematics-and-movie-making-in-unreal-engine/" target="_blank">
+      <img src="https://img.shields.io/badge/Unreal_Sequencer-D4AF37?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Sequencer" />
+    </a>
+    <a href="https://docs.unity3d.com/Manual/UIElements.html" target="_blank">
+      <img src="https://img.shields.io/badge/Unity_UI_Toolkit-FF1493?style=for-the-badge&logo=unity&logoColor=white" alt="UI Toolkit" />
+    </a>
+    <a href="https://docs.unity3d.com/Manual/Shaders.html" target="_blank">
+      <img src="https://img.shields.io/badge/Unity_Shaders-008B8B?style=for-the-badge&logo=unity&logoColor=white" alt="Shaders" />
+    </a>
+    <a href="https://docs.unity3d.com/Packages/com.unity.timeline@1.8/manual/index.html" target="_blank">
+      <img src="https://img.shields.io/badge/Unity_Timeline-B22222?style=for-the-badge&logo=unity&logoColor=white" alt="Timeline" />
+    </a>
+  </p>
+</details>
+<br>
+
 **IDEs & Version Control**
 <p align="left">
   <a href="https://visualstudio.microsoft.com/" target="_blank">
@@ -97,5 +120,5 @@ I am a 2025 Computer Science graduate with specialized experience in game develo
 
 I actively share my knowledge and workflows for game development and animation on YouTube. 
 
-* 📺 **[Subscribe to Dynamic V](https://www.youtube.com/@dynamic_V)**
+* 🎮 **[Watch: Game Development Vlogs & Project Showcases](https://www.youtube.com/watch?v=p45C5uPJqBU&list=PLldkLNJhlTCEwwwsrD7hlZ-jYY9rWRRMJ)**
 * 🎬 **[Watch: MotionBuilder Essentials Playlist](https://www.youtube.com/watch?v=n5vKndaitBI&list=PLldkLNJhlTCG1gJSDlUFqDpaxQIjEtZlC)**
