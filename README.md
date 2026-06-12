@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/venkanna-babu-b69a8b227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dynamicgamervenki.github.io/V_portfolio/" target="_blank">
+  <a href="https://venkannababu.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://drive.google.com/file/d/1zLPNl2dyrWCLVXjQHofpa73FweHaVbeg/view?usp=sharing" target="_blank">
