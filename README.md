@@ -8,7 +8,7 @@
   <a href="https://venkannababu.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/1zLPNl2dyrWCLVXjQHofpa73FweHaVbeg/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1fBxkOGAv44y7LQ1Stdqv3BO11Oi2Ue35/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.youtube.com/@dynamic_V" target="_blank">
