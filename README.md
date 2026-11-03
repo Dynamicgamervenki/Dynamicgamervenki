@@ -8,13 +8,19 @@
   <a href="https://venkannababu.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/1fBxkOGAv44y7LQ1Stdqv3BO11Oi2Ue35/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/16sW53f2l0e_ii4EbVIL3CvkgIZWIY3x4/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.youtube.com/@dynamic_V" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
   </a>
 </p>
+
+---
+
+### 🏆 Highlights
+
+- 🎮 **Console Rift**, a solo-developed 3D action platformer, was selected as an [Indie 60 nominee at IGDC 2026](https://indiagdc.com/indie/). [Watch it on YouTube](https://youtu.be/vc-GJ929gtI). Coming soon on Steam.
 
 ---
 
