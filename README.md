@@ -20,7 +20,7 @@
 
 ### 🏆 Highlights
 
-- 🎮 **Console Rift**, a solo-developed 3D action platformer, was selected as an [Indie 60 nominee at IGDC 2026](https://indiagdc.com/indie/). [Watch it on YouTube](https://youtu.be/vc-GJ929gtI). Coming soon on Steam.
+- 🎮 **Console Rift**, a 3D action platformer, was selected as an [Indie 60 nominee at IGDC 2026](https://indiagdc.com/indie/). [Watch it on YouTube](https://youtu.be/vc-GJ929gtI). Coming soon on Steam.
 
 ---
 
